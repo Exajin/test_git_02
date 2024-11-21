@@ -1,4 +1,7 @@
 header{
     font-size: 50px;
+    font-family: sans-serif;
     color: #7e8b18;
+    text-align: center;
+    border: #7e8b18 2px solid;
 }
